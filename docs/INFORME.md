@@ -5,7 +5,7 @@
 **Fecha:** 08/11/2026
 **Repositorio:** https://github.com/floriannimoreno-source/practica3-cicd-itla
 **Sitio publicado:** https://floriannimoreno-source.github.io/practica3-cicd-itla/
-**Video / presentación:** _pegar aquí el enlace de YouTube o el nombre del archivo PPT_
+**Video / presentación:**    Práctica_3_Pipeline_CI_CD_con_GitHub_Actions.pdf 
 
 ## 1. Objetivo
 
